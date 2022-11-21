@@ -3,6 +3,7 @@
 1.)Speletajājs tiek sveicināts Sākuma Izvēlnē (Menu) palaižot aplikāciju.
 
 ##Prasības
+
  □ Dekstop Programma
  □ Cilvēciņš ar kuru var kustēties
  □ Darbības ar apkārtni
