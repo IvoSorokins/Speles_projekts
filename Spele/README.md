@@ -5,7 +5,8 @@
 ### Prasības
 
  □ Spēles cikls
- □ Dekstop Programma
+ ✔️ Dekstop Programma
+ ✔️ Fiksēts lielums
  □ Cilvēciņš ar kuru var kustēties
  □ Darbības ar apkārtni
  □ Inventory sistema
