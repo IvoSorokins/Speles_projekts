@@ -1,3 +1,3 @@
 ## Speles scenarijs
 
-Speletajājs tiek sveicināts Sākuma Izvēlnē (Menu) palaižot aplikāciju.
+1.)Speletajājs tiek sveicināts Sākuma Izvēlnē (Menu) palaižot aplikāciju.
