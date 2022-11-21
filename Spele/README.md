@@ -1,8 +1,8 @@
-##Scenarijs
+#Scenarijs
 
 1.)Speletajājs tiek sveicināts Sākuma Izvēlnē (Menu) palaižot aplikāciju.
 
-##Prasības
+#Prasības
 
  □ Dekstop Programma
  □ Cilvēciņš ar kuru var kustēties
