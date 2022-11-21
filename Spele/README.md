@@ -19,3 +19,12 @@
  □ Highsore tabula ar laiku
  □ Menu
  □ Ingame menu
+
+
+### .gitignore ja strada ar VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
