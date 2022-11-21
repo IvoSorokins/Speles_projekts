@@ -1,9 +1,10 @@
-#Scenarijs
+###Scenarijs
 
 1.)Speletajājs tiek sveicināts Sākuma Izvēlnē (Menu) palaižot aplikāciju.
 
-#Prasības
+###Prasības
 
+ □ Spēles cikls
  □ Dekstop Programma
  □ Cilvēciņš ar kuru var kustēties
  □ Darbības ar apkārtni
@@ -17,3 +18,4 @@
  □ Highsore tabula ar laiku
  □ Menu
  □ Ingame menu
+ 
