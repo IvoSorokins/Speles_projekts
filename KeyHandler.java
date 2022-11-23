@@ -6,9 +6,9 @@ import java.awt.event.KeyListener;
 public class KeyHandler implements KeyListener{
 
     public boolean upPressed, downPressed, leftPressed, rightPressed;
-    public void KeyTyped(KeyEvent e){
+    public void KeyTyped(KeyEvent e) {
     }
-    public void KeyPressed(KeyEvent e){//pārbauda kuru pogu uzspiež lai kustinātu cilveku
+    public void KeyPressed(KeyEvent e) {//pārbauda kuru pogu uzspiež lai kustinātu cilveku
         int code = e.getKeyCode();
 
         if(code == KeyEvent.VK_W){
@@ -25,7 +25,7 @@ public class KeyHandler implements KeyListener{
         }
     }
 
-    public void KeyReleased(KeyEvent e){//pārbauda vai ir poga atlaista
+    public void KeyReleased(KeyEvent e) {//pārbauda vai ir poga atlaista
         int code = e.getKeyCode();
 
         if(code == KeyEvent.VK_W){

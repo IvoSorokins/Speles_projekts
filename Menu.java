@@ -2,7 +2,7 @@ import java.awt.Color;
 import java.awt.Dimension;
 import javax.swing.JPanel;
 
-public class Menu extends JPanel implements Runnable {//extends Papildina JPanel bibliotēku
+public class GamePanel extends JPanel implements Runnable {//extends Papildina JPanel bibliotēku
     //implement Runnable ļauj impelementot interfaces jeb klasi ar abstraktam metodem
 
 
@@ -26,7 +26,7 @@ public class Menu extends JPanel implements Runnable {//extends Papildina JPanel
     KeyHandler keyH = new KeyHandler();
     Thread gameThread;//Atļauj notikt vairākām darbībam vienalaikus
 
-    public Menu(){
+    public GamePanel(){
         this.setPreferredSize(new Dimension(screenWidth, screenHeight));
         getBackground();
         this.setBackground(Color.green);
