@@ -9,8 +9,8 @@ public class Main {
         window.setTitle("Spele");//Nosaukums
 
 
-        Menu Menu = new Menu();
-        window.add(Menu);//Pievienoju logam Menu
+        GamePanel GamePanel = new GamePanel();
+        window.add(GamePanel);//Pievienoju logam Menu
 
         window.pack();//Lai menu ieklaujas loga to iepakoju taja
 
