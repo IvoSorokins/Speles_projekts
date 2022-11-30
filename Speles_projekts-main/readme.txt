@@ -1,12 +1,12 @@
-# Spēle lidojošais putns
+#  Spēle lidojošais putns
     *Ar putnu var palekties ar space bar.
     *Tik caur trubām, tām nepieskaroties.
 
-# Uzdevums:
+#  Uzdevums:
     *Tikt cik tālu vien iespējams lecot cauri objektiem.
 
 
-# Instrukcija
+#  Instrukcija
 1.)Lejupladēt IDE
 Ieteicams: https://www.jetbrains.com/idea/download/download-thanks.html?platform=windows&code=IIC
 
